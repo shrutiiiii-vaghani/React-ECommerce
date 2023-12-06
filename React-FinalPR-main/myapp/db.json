@@ -1,0 +1,331 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "slider": [
+    {
+      "image": "https://themewagon.github.io/furni/images/couch.png",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "Nordic Chair",
+      "price": 5000,
+      "qty": 1,
+      "image": "https://themewagon.github.io/furni/images/product-1.png",
+      "category": "Table",
+      "status": "instock",
+      "marketstatus": "best",
+      "id": 1
+    },
+    {
+      "name": "Kruzo Aero Chair",
+      "price": 30000,
+      "qty": 1,
+      "image": "https://themewagon.github.io/furni/images/product-2.png",
+      "category": "Table",
+      "status": "outstock",
+      "marketstatus": "best",
+      "id": 2
+    },
+    {
+      "name": "Ergonomic Chair",
+      "price": 4300,
+      "qty": 1,
+      "image": "https://themewagon.github.io/furni/images/product-3.png",
+      "category": "Table",
+      "status": "instock",
+      "marketstatus": "best",
+      "id": 3
+    },
+    {
+      "name": "couch sofa",
+      "price": 69525,
+      "qty": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkPJkH1hzJfF84C-AhmNjG91MUuK-rszWAGw&usqp=CAU",
+      "category": "Sofa",
+      "status": "instock",
+      "marketstatus": "trending",
+      "id": 4
+    },
+    {
+      "name": "settee sofa",
+      "price": 35000,
+      "qty": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbOaFA0QJon1hJzFFB0OfbpIICYZ-w56g1ls8U0gZ4Wsdsk_Zvfau98dKzRypFYqPVIgY&usqp=CAU",
+      "category": "Sofa",
+      "status": "instock",
+      "marketstatus": "latest",
+      "id": 5
+    },
+    {
+      "name": "lounge sofa",
+      "price": 6950,
+      "qty": 1,
+      "image": "https://media.decovry.com/media/catalog/product/cache/4/2/9df78eab33525d08d6e5fb8d27136e95/4251194914499_001.jpg",
+      "category": "Sofa",
+      "status": "instock",
+      "marketstatus": "trending",
+      "id": 7
+    },
+    {
+      "name": "divan sofa",
+      "price": 695,
+      "qty": 1,
+      "image": "https://i.pinimg.com/originals/bf/f8/c5/bff8c5b0eb0750dec50f9559b72e096d.jpg",
+      "category": "Sofa",
+      "status": "outstock",
+      "marketstatus": "best",
+      "id": 8
+    },
+    {
+      "name": "Draver",
+      "price": 6963,
+      "qty": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ69G5gE4hU28At-YH8YhsKu5q3csVu97XSkw&usqp=CAU",
+      "category": "Draver",
+      "status": "outstock",
+      "marketstatus": "latest",
+      "id": 9
+    },
+    {
+      "name": "chesterfield sofa",
+      "price": 6985,
+      "qty": 1,
+      "image": "https://i.pinimg.com/originals/1d/33/0d/1d330d89061ae2ea47c419077bc15a55.jpg",
+      "category": "Sofa",
+      "status": "outstock",
+      "marketstatus": "latest",
+      "id": 10
+    },
+    {
+      "name": "box draver",
+      "price": 69785,
+      "qty": 1,
+      "image": "https://static.homelivingfurniture.com/data/vendors/265/items/290112/big/12135.jpg",
+      "category": "Draver",
+      "status": "instock",
+      "marketstatus": "upcomming",
+      "id": 11
+    },
+    {
+      "name": "davenport sofa",
+      "price": 790,
+      "qty": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyjIrRV-vlzOqmKOMjOC9ONDow_bs76op6us5q-4_euLZ-MLmJXbKiQFenh7mYFs1ZoYM&usqp=CAU",
+      "category": "Sofa",
+      "status": "instock",
+      "marketstatus": "upcomming",
+      "id": 12
+    },
+    {
+      "name": "squab sofa",
+      "price": 6955,
+      "qty": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXVqHr9mHTqVo8e7l7yaInQDFySld6xnBCsOsijLNhHLCQpyW2o-EC458a9MPdkz4DXkU&usqp=CAU",
+      "category": "Sofa",
+      "status": "instock",
+      "marketstatus": "latest",
+      "id": 13
+    },
+    {
+      "name": "bar table",
+      "price": 6966,
+      "qty": 1,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/10/QN/MS/XU/101671087/--250x250.jpg",
+      "category": "Table",
+      "status": "instock",
+      "marketstatus": "trending",
+      "id": 14
+    },
+    {
+      "name": "board table",
+      "price": 6952,
+      "qty": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjNCvaW7w-hUDeen6oHzPs98rfgOuqnuJ5W7P7I_7LGdvxA2GAa-vVqo9-nkW6P4jw64&usqp=CAU",
+      "category": "Table",
+      "status": "instock",
+      "marketstatus": "latest",
+      "id": 15
+    },
+    {
+      "name": "buffet table",
+      "price": 1500,
+      "qty": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlINRcIGX82FOq9Ysp_jfdGnoCRi3rehq9bCtj_A3zleLWxFNAnbZkguMaoM__b97_Ls&usqp=CAU",
+      "category": "Table",
+      "status": "outstock",
+      "marketstatus": "best",
+      "id": 16
+    },
+    {
+      "name": "counter table",
+      "price": 2000,
+      "qty": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHDkvIZ6fjHZ5i85OIFukGPjkMZ4O-5--AHDPSNx87DGGF5T_xgMTmMiZ0NOXA35zTlY8&usqp=CAU",
+      "category": "Table",
+      "status": "instock",
+      "marketstatus": "best",
+      "id": 17
+    },
+    {
+      "name": "counter table",
+      "price": 2500,
+      "qty": 1,
+      "image": "https://images.thdstatic.com/productImages/b2fc3c31-cf4a-4f1a-83ce-821b0a9d43d5/svn/rose-red-homefun-task-chairs-hfhdsn-173rc-64_1000.jpg",
+      "category": "Table",
+      "status": "instock",
+      "marketstatus": "best",
+      "id": 18
+    },
+    {
+      "name": "Wooden Chair",
+      "price": 3000,
+      "qty": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskQMy2YupPSoS7-YU5dLK4hYMNiFnT4WsPQ&usqp=CAU",
+      "category": "Wooden Chair",
+      "status": "instock",
+      "marketstatus": "best",
+      "id": 19
+    },
+    {
+      "name": "Wooden Chair",
+      "price": 5695,
+      "qty": 1,
+      "image": "https://media.istockphoto.com/id/511586630/photo/wooden-folding-table-and-chair.jpg?s=612x612&w=0&k=20&c=MH6n_nB5w6Rt_kCYEsTOgy5ZroBRtk1wZtytuhEy4bQ=",
+      "category": "Wooden Chair",
+      "status": "outstock",
+      "marketstatus": "upcomming",
+      "id": 20
+    },
+    {
+      "name": "bench sofa",
+      "price": 15264,
+      "qty": 1,
+      "image": "https://i.pinimg.com/736x/3f/8b/10/3f8b108096abd05d69c49a6a97032692.jpg",
+      "category": "Single Sofa",
+      "status": "instock",
+      "marketstatus": "best",
+      "id": 21
+    },
+    {
+      "name": "bench sofa",
+      "price": 23069,
+      "qty": 1,
+      "image": "https://media.istockphoto.com/id/1367399805/photo/furniture-sofa-puf-chair.webp?b=1&s=170667a&w=0&k=20&c=R8SN48X3xf9-zPGNltze5Yc1e0ZrlwR5COS5L2is5TE=",
+      "category": "Sofa",
+      "status": "instock",
+      "marketstatus": "best",
+      "id": 22
+    },
+    {
+      "name": "studio couch sofa",
+      "price": 4569,
+      "qty": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwoNoQ4_DPfL2i8RBHnPWfuc_uxAw0sNynhJ9NfGWZceURw7EgU3UpVon9FlWVD9FFljo&usqp=CAU",
+      "category": "Single Sofa",
+      "status": "instock",
+      "marketstatus": "best",
+      "id": 23
+    }
+  ],
+  "category": [
+    {
+      "category_name": "Table",
+      "id": 1
+    },
+    {
+      "category_name": "Sofa",
+      "id": 2
+    },
+    {
+      "category_name": "Draver",
+      "id": 3
+    },
+    {
+      "category_name": "Wooden Chair",
+      "id": 4
+    },
+    {
+      "category_name": "Single Sofa",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "shruti",
+      "email": "shrutivaghani2004@gmail.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "name": "rudra",
+      "email": "rudra@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "name": "hensi",
+      "email": "hensi@gmail.com",
+      "password": "45210",
+      "cpassword": "45210",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "name": "ruta",
+      "email": "ruta@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "id": 4
+    },
+    {
+      "name": "shivu",
+      "email": "shivu@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "id": 5
+    }
+  ],
+  "carts": [
+    {
+      "name": "Nordic Chair",
+      "price": 5000,
+      "qty": 4,
+      "image": "https://themewagon.github.io/furni/images/product-1.png",
+      "category": "Table",
+      "productId": 1,
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "couch sofa",
+      "price": 69525,
+      "qty": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkPJkH1hzJfF84C-AhmNjG91MUuK-rszWAGw&usqp=CAU",
+      "category": "Sofa",
+      "productId": 4,
+      "userId": 2,
+      "id": 2
+    }
+  ]
+}

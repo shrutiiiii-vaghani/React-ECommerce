@@ -1,0 +1,17 @@
+.box{
+   width: 115px;
+    height:100px;
+    background-color:#3b5d50;
+    color: white;
+    border-radius:5px;
+    text-align:center;
+    display:block;
+   transition: all 0.5s;
+   margin: 0 auto;
+}
+.box:hover{
+  transform: translateY(-5px)
+}
+.category{
+    padding-top: 35px;
+}
